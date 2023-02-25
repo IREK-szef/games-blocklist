@@ -110,6 +110,7 @@
 ||algebra.best^
 ||crazygames.com^
 ||instant-gaming.com^
+||arkadium.com^
 ||arkadiumhosted.com^
 ||eveonline.com^
 ||boardgamearena.com^
