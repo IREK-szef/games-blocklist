@@ -3,6 +3,75 @@
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updated: every 2-4 days
 !
+!start 
+ ||discord.gg^
+ ||rvlt.gg^
+ ||minecraftforfreex.com^
+ ||eaglercraft.ru^
+ ||web.arch.lol^^
+ ||web.arch.mba^^
+ ||web.trumpskins.wtf^^
+ ||gg.404.mn^^
+ ||gg.drm.hk^^
+ ||gg.hec.to^^
+ ||gg.oops.wtf^^
+ ||gg.joe.dj^^
+ ||webclient.asspixel.net^
+ ||reslauncher.vercel.app^
+ ||eaglercraft-bj5.pages.de^
+ ||oncoursemail.github.io^
+ ||asianf4rmer.vercel.app^
+ ||rentry.co^
+ ||play.water-network.tk^
+ ||mess.eu.org^^
+ ||precisionclient.vercel.app^^
+ ||resclient.vercel.app^
+ ||resclient.netlify.app^
+ ||helltech.vercel.app^
+ ||realitysmp.spacegd.repl.co^
+ ||eaglercraftx.pages.dev^
+ ||oncoursemail.github.io^
+ ||rentry.co/EaglerXLinks^^
+ ||resclient.vercel.app^
+ ||madmanlounge.great-site.net^
+ ||survival.asianf4rmer.repl.co^
+ ||eaglercraft.ru^
+ ||web.arch.lol^
+ ||web.arch.mba^
+ ||web.trumpskins.wtf^
+ ||gg.404.mn^
+ ||gg.drm.hk^
+ ||gg.hec.to^
+ ||gg.oops.wtf^
+ ||gg.joe.dj^
+ ||eaglercraft.ru^
+ ||web.arch.lol^
+ ||web.arch.mba^
+ ||web.trumpskins.wtf^
+ ||gg.404.mn^
+ ||gg.drm.hk^
+ ||gg.hec.to^
+ ||gg.oops.wtf^
+ ||gg.joe.dj^
+ ||eaglercraft.ru^
+ ||web.arch.lol^
+ ||web.arch.mba^
+ ||web.trumpskins.wtf^
+ ||gg.404.mn^
+ ||gg.drm.hk^
+ ||gg.hec.to^
+ ||gg.oops.wtf^
+ ||gg.joe.dj^
+ ||eaglercraft.ru^
+ ||web.arch.lol^
+ ||web.arch.mba^
+ ||web.trumpskins.wtf^
+ ||gg.404.mn^
+ ||gg.drm.hk^
+ ||gg.hec.to^
+ ||gg.oops.wtf^
+ ||gg.joe.dj^
+!stop
 ||pegasus-online.pl^
 ||kiddoland.pl^
 ||yiv.com^
