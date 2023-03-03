@@ -10264,3 +10264,5 @@
 ||gryfek.pl^
 ||onlygames.io^
 ||cartoonnetwork.pl^
+||moomoo.io^
+||guesstherank.org^
