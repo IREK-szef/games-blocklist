@@ -1,6 +1,6 @@
 ---
 name: Domains block request
-about: Suggest an idea for this project
+about: Block domain
 title: "[Block domain]"
 labels: black list
 assignees: spec997, IREK-szef
