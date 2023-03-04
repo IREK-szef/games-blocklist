@@ -1,6 +1,6 @@
 ---
 name: Domains unblock request
-about: 
+about: Unblock domain
 title: "[Unblock domain]"
 labels: white list
 assignees: spec997, IREK-szef
