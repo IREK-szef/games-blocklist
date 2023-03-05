@@ -3,7 +3,7 @@
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updated: every 2-4 days
 ! Last updates: 04.03.2023
-! Domains: 11997
+! Domains: 11995
 !
 ||007arcadegames.com^
 ||01-casino.com^
@@ -431,7 +431,6 @@
 ||ajedrezmail.org^
 ||ajoutez.fr^
 ||akamaihd.net^
-||akamaized.net^
 ||akinator.com^
 ||akinator.fr^
 ||akitsuki.com^
@@ -1609,7 +1608,6 @@
 ||cliquojeux.com^
 ||clockworkmonster.com^
 ||clodogame.fr^
-||cloudflare.net^
 ||clowngames.com^
 ||club-games.com^
 ||club.live.com^
