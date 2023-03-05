@@ -1,4 +1,4 @@
-# You shouldn't use this file due to the modified file format for ease of management.
+#You shouldn't use this file due to the modified file format for ease of management.
 007arcadegames.com
 01-casino.com
 01-chase.com
