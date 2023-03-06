@@ -1,8 +1,8 @@
 ! Irek-szef's and spec997's games block list for adblock, adguard etc. Report new domains or false positives in issues on github https://github.com/IREK-szef/games-blocklist/issues
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
-! Updated: every 2-4 days
-! Last updates: 06.03.2023
+! Updates: every 2-4 days
+! Last updated: 06.03.2023
 ! Domains: 12083
 !
 ||007arcadegames.com^
