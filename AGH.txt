@@ -2,8 +2,8 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updated: every 2-4 days
-! Last updates: 04.03.2023
-! Domains: 11995
+! Last updates: 06.03.2023
+! Domains: 12083
 !
 ||007arcadegames.com^
 ||01-casino.com^
@@ -236,6 +236,7 @@
 ||88.191.39.66^
 ||888.com^
 ||8baller.co.uk^
+||8ballpool.com^
 ||8fat.com^
 ||8thd.net^
 ||91.121.180.55^
@@ -248,6 +249,7 @@
 ||999jeux.fr^
 ||999paixnidia.gr^
 ||999spielen.de^
+||99images.com^
 ||9freeonlinegames.com^
 ||9mine.com^
 ||9sur49.com^
@@ -434,6 +436,7 @@
 ||akinator.com^
 ||akinator.fr^
 ||akitsuki.com^
+||akrasiac.org^
 ||alabasterslim.com^
 ||alawar.com^
 ||alawar.fr^
@@ -441,6 +444,7 @@
 ||albinoblacksheep.com^
 ||albiononline.com^
 ||albyor.net^
+||alc.co.jp^
 ||alchimiste-games.fr^
 ||alcomindz.pl^
 ||aledeon.net^
@@ -497,6 +501,7 @@
 ||amnesyas.com^
 ||amongusplay.online^
 ||ampgames.com^
+||ampproject.org^
 ||anaalomas.nl^
 ||anaitgames.com^
 ||analyzedota.com^
@@ -974,6 +979,7 @@
 ||benz.be^
 ||benzinga.com^
 ||bequiz.com^
+||berotato.org^
 ||berzerkstudio.com^
 ||besidegames.com^
 ||best-arcade.net^
@@ -1092,6 +1098,7 @@
 ||blackwithblue.free.fr^
 ||bladeandsoul.com^
 ||bladers.io^
+||blankmediagames.com^
 ||blastarena.io^
 ||blastbilliards.com^
 ||blayzegames.com^
@@ -1115,6 +1122,7 @@
 ||blobcraft.duckdns.org^
 ||blobcraft.tk^
 ||blobcraft.uk.to^
+||blobgame.io^
 ||blobie.io^
 ||blobzone.com^
 ||blockdrop.com^
@@ -1336,8 +1344,8 @@
 ||buzzville.com^
 ||buzzy.bees^
 ||bwhmather.com^
-||bwin.com.ar^
 ||bwin.com^
+||bwin.com.ar^
 ||by-art.com^
 ||bytespiel.de^
 ||bzombie.com^
@@ -1406,8 +1414,8 @@
 ||cartonnetwork.pt^
 ||cartooncritters.com^
 ||cartoondollemporium.com^
-||cartoonnetwork.com.br^
 ||cartoonnetwork.com^
+||cartoonnetwork.com.br^
 ||cartoonnetwork.fr^
 ||cartoonnetwork.pl^
 ||cartoonnetworkasia.com^
@@ -1432,6 +1440,7 @@
 ||casualgames.fr^
 ||casualii.com^
 ||casualmob.com^
+||catanuniverse.de^
 ||catmario.net^
 ||catsuka.com^
 ||cavernsofblood.com^
@@ -1441,6 +1450,7 @@
 ||cbr600f.eresmas.net^
 ||cbsgames.com^
 ||cbssports.com^
+||cdaction.pl^
 ||cdd.opogame.com^
 ||cdetdz.com^
 ||cdkeyit.it^
@@ -1457,6 +1467,7 @@
 ||celestia.online.fr^
 ||celestus.fr^
 ||cellardoorgames.com^
+||cellgames.com^
 ||celulargame.net^
 ||centerforgamescience.com^
 ||centerforgamescience.org^
@@ -1544,6 +1555,7 @@
 ||chooseagame.com^
 ||chosenlove.com^
 ||chrestonim.de^
+||chromedino.com^
 ||chromegameszone.com^
 ||chroniquesdenarnia.xooit.com^
 ||chrono.gg^
@@ -1718,6 +1730,7 @@
 ||coolgamestop.com^
 ||coolgamestoplay.org^
 ||cooljeu.com^
+||cooljuegos.com^
 ||coolkindergarten.com^
 ||coolmath-games.com^
 ||coolmathgames-online.org^
@@ -1781,8 +1794,8 @@
 ||crazybone.com^
 ||crazygame.fr^
 ||crazygame.nl^
-||crazygames.com.br^
 ||crazygames.com^
+||crazygames.com.br^
 ||crazygames.dk^
 ||crazygames.fr^
 ||crazygames.io^
@@ -1849,6 +1862,7 @@
 ||cubota.it^
 ||cuicuiland.com^
 ||cuisinejeux.com^
+||culga.com^
 ||cumswappers.nl^
 ||cuoreconleali.it^
 ||curvefever.com^
@@ -1972,6 +1986,7 @@
 ||dcuniverseonline.com^
 ||dden.discordia.org^
 ||ddo.com^
+||ddo.jp^
 ||de.reisen.yahoo.com^
 ||de.spiele.yahoo.com^
 ||de.wildjack.co.uk^
@@ -2062,6 +2077,7 @@
 ||deusx.com^
 ||deutschland-spielt.de^
 ||devast.io^
+||develz.org^
 ||deviantflash.com^
 ||devilishfree.com^
 ||devilishgames.com^
@@ -2333,6 +2349,7 @@
 ||dubois-manchot.org^
 ||ducklings.io^
 ||duckpark.io^
+||ducksters.com^
 ||ducktales.complexgames.com^
 ||dudegames.fr^
 ||duel-de-mots.com^
@@ -2681,6 +2698,7 @@
 ||faistaville.com^
 ||falafelgame.com^
 ||falanja.com^
+||fallenlondon.com^
 ||fallensword.com^
 ||famijeux.free.fr^
 ||familyborn.com^
@@ -2736,6 +2754,7 @@
 ||fenomen-games.com^
 ||ferajogos.com.br^
 ||feralinteractive.com^
+||ferge.io^
 ||feriale.net^
 ||fermiland.fr^
 ||ferryhalim.com^
@@ -2953,8 +2972,8 @@
 ||fletchfido.co.uk^
 ||flibus.com^
 ||flight1.100megabyte.com^
-||flightsim.com.br^
 ||flightsim.com^
+||flightsim.com.br^
 ||flightsimulatorarg.com.ar^
 ||flightsimworld.com^
 ||fliiby.com^
@@ -2979,10 +2998,12 @@
 ||fmprotasy.bravehost.com^
 ||fnac.com^
 ||fnaffangames.org^
+||fnfgo.com^
 ||fnfmultiplayer.com^
 ||foa-clan.com^
 ||focalgame.com^
 ||focus-files.com^
+||foddy.net^
 ||foggygames.com^
 ||fondationjeu.com^
 ||fonigames.com^
@@ -3104,6 +3125,7 @@
 ||freecasualgames.com^
 ||freecitygames.com^
 ||freeciv.org^
+||freecivweb.org^
 ||freeclassicgames.com^
 ||freecoolgames.info^
 ||freecooptown.wikispaces.com^
@@ -3246,6 +3268,8 @@
 ||friv10games.net^
 ||friv2.org^
 ||friv2.sk^
+||friv2016.info^
+||friv2020.us^
 ||friv400game.com^
 ||friv4online.com^
 ||friv500games.com^
@@ -3507,6 +3531,7 @@
 ||gameanalytics.com^
 ||gamearena.fr^
 ||gameark.com^
+||gamearter.com^
 ||gameatopia.com^
 ||gameax.fr^
 ||gameaxis.com^
@@ -3532,8 +3557,8 @@
 ||gameboomers.com^
 ||gameboss.ru^
 ||gameboss123.com^
-||gamebox.com.mk^
 ||gamebox.com^
+||gamebox.com.mk^
 ||gameboxclassics.com^
 ||gameboy.com^
 ||gameboyonline.com^
@@ -3678,6 +3703,7 @@
 ||gameinsociety.com^
 ||gameinvasion.comcast.net^
 ||gameis.com^
+||gameis.net^
 ||gameitnow.com^
 ||gamejacket.net^
 ||gamejeux.com^
@@ -3703,14 +3729,15 @@
 ||gamelists.net^
 ||gamellespleines.fr^
 ||gamelocker.fr^
-||gameloft.com.ar^
 ||gameloft.com^
+||gameloft.com.ar^
 ||gameloft.fr^
 ||gamelog.nl^
 ||gamelola.com^
+||gameloop.com^
 ||gamelover.nl^
-||gamemais.com.br^
 ||gamemais.com^
+||gamemais.com.br^
 ||gamemakers.de^
 ||gamemarkers.de^
 ||gamemaster.fr^
@@ -3722,6 +3749,7 @@
 ||gamemob.de^
 ||gamemobile.co.uk^
 ||gamemodding.net^
+||gamemonetize.co^
 ||gamemonetize.com^
 ||gamemuncher.com^
 ||gamemusicthemes.com^
@@ -4290,6 +4318,7 @@
 ||gamesgizmo.blogspot.com^
 ||gamesglue.com^
 ||gamesgnome.com^
+||gamesgo.net^
 ||gamesgofree.com^
 ||gamesgood.com^
 ||gamesgrid.com^
@@ -4322,6 +4351,7 @@
 ||gamesitestop100.com^
 ||gamesjockey.com^
 ||gameskinny.com^
+||gameskip.com^
 ||gameslave.co.uk^
 ||gameslicer.com^
 ||gameslick.com^
@@ -4521,8 +4551,8 @@
 ||gameyard.com^
 ||gameyeeeah.com^
 ||gamez-vault.com^
-||gamez.com.tw^
 ||gamez.com^
+||gamez.com.tw^
 ||gamez.sk^
 ||gamez100.com^
 ||gamez4ever.de^
@@ -4638,9 +4668,13 @@
 ||genshin.mihoyo.com^
 ||geny.com^
 ||genycourses.com^
+||geoguess.games^
+||geoguessmaster.net^
+||geoguessr.com^
 ||geoip.edagames.com^
 ||geojuegos.com^
 ||georgiapacificsoccer.com^
+||geotastic.net^
 ||german-atlantis.de^
 ||geste-maldoror.com^
 ||getappsonline.com^
@@ -4648,6 +4682,7 @@
 ||getgamesgo.com^
 ||getgameshere.com^
 ||getinsidetheorangebox.com^
+||getlostgame.app^
 ||getontopunblocked.net^
 ||gettheglass.com^
 ||getupandplay.ca^
@@ -4903,6 +4938,8 @@
 ||grouvee.com^
 ||grrlswrrld.com^
 ||gry.hitz.pl^
+||gry.interia.pl^
+||gry.io^
 ||gry.org^
 ||gry.pl^
 ||grydla-dzieci.pl^
@@ -5114,6 +5151,8 @@
 ||heroturkey.com^
 ||herozerogame.com^
 ||herzberg.dealhot.info^
+||hetarust.com^
+||hexagame.io^
 ||hexanaut.io^
 ||hexar.io^
 ||heyzap.com^
@@ -5123,10 +5162,12 @@
 ||hidden-object-games.biz^
 ||hiddenninjagames.com^
 ||hiddenworld.com^
+||hideandseek.world^
 ||hideproxy.me^
 ||hiervard.ru^
 ||high-scores.eu^
 ||higher-lower-game.com^
+||higherlowergame.com^
 ||highperformancegate.com^
 ||highscoregames.ca^
 ||higopage.com^
@@ -5293,11 +5334,13 @@
 ||iflygames.com^
 ||ifotbal.org^
 ||ifungames.com^
+||ifunny.co^
 ||igadisuniverse.com^
 ||igames9.com^
 ||igamesecrets.com^
 ||igamesky.com^
 ||igamewin.com^
+||igdb.com^
 ||igel.t-online.de^
 ||igirlgames.com^
 ||igirlsgames.com^
@@ -5318,9 +5361,9 @@
 ||ijuegos37.com^
 ||ijuegosgratis7.com^
 ||ijy.cc^
+||ikariam.com^
 ||ikariam.com.br^
 ||ikariam.com.ve^
-||ikariam.com^
 ||ikariam.es^
 ||ikariam.fr^
 ||ikariam.gr^
@@ -5452,6 +5495,7 @@
 ||iplayallday.com^
 ||iplaywebgames.com^
 ||iqpied.com^
+||ironhelmet.com^
 ||ironhidegames.com^
 ||ironmangames.org^
 ||is.mud.pl^
@@ -5471,6 +5515,8 @@
 ||isthereanydeal.com^
 ||isuc.net^
 ||it-kids.dk^
+||itch.io^
+||itch.zone^
 ||itchanatchones.com^
 ||itexpressions.com^
 ||itsnotbadatall.com^
@@ -6277,8 +6323,8 @@
 ||jogarjogosonline.com.br^
 ||jogaronline.net^
 ||jogatina.com^
-||jogg.com.br^
 ||jogg.com^
+||jogg.com.br^
 ||jogojogar.com^
 ||jogolandia.com.br^
 ||jogomedia.com^
@@ -6330,6 +6376,7 @@
 ||jojo.net^
 ||jojo.pl^
 ||jojohry.cz^
+||jojoy.io^
 ||jokconcept.net^
 ||joker-games.com^
 ||jokerplanete.com^
@@ -6366,6 +6413,7 @@
 ||joujou.biz^
 ||jouonsflash.com^
 ||journaldugamer.com^
+||joy.land^
 ||joystiq.com^
 ||joyyang.com^
 ||jpknet.com^
@@ -6425,9 +6473,9 @@
 ||juegos-gratis-flash.com^
 ||juegos-gratis-gratuitos.com^
 ||juegos-gratis-juegos.com^
+||juegos-gratis.com^
 ||juegos-gratis.com.ar^
 ||juegos-gratis.com.mx^
-||juegos-gratis.com^
 ||juegos-panda.com^
 ||juegos-tiros.com^
 ||juegos-ultimate-arcade.blogspot.com^
@@ -6435,10 +6483,10 @@
 ||juegos.aol.com^
 ||juegos.canalquo.com^
 ||juegos.ciudad.com.ar^
+||juegos.com^
 ||juegos.com.ar^
 ||juegos.com.es^
 ||juegos.com.py^
-||juegos.com^
 ||juegos.diariomadrid.eu^
 ||juegos.donmegabite.com^
 ||juegos.enfemenino.com^
@@ -6590,8 +6638,8 @@
 ||juegosipo.com^
 ||juegosjava.com^
 ||juegosjuegos.asia^
-||juegosjuegos.com.pe^
 ||juegosjuegos.com^
+||juegosjuegos.com.pe^
 ||juegosjuegos.mx^
 ||juegosjuegos.tv^
 ||juegosjuegos.ws^
@@ -6688,13 +6736,13 @@
 ||jugandogratis.com^
 ||jugandojuegos.com^
 ||jugandonline.net^
-||jugandoonline.com.ar^
 ||jugandoonline.com^
+||jugandoonline.com.ar^
 ||jugar-gratis.net^
 ||jugar-juegos-online.com^
 ||jugar-juegos.net^
-||jugar.com.ar^
 ||jugar.com^
+||jugar.com.ar^
 ||jugar.net^
 ||jugar.ya.com^
 ||jugarchicas.com^
@@ -6786,6 +6834,7 @@
 ||kejuegos.com^
 ||kekma.net^
 ||kekuko.com^
+||kelbi.org^
 ||keljeu.com^
 ||kendlojrash.com^
 ||kenplay.com^
@@ -6805,6 +6854,7 @@
 ||keybashers.com^
 ||keygames.com^
 ||keyofgames.com^
+||keysforgames.pl^
 ||kharon4a.com^
 ||khdestiny.fr^
 ||kheltalk.com^
@@ -7010,6 +7060,7 @@
 ||kraloyun.com^
 ||krassland.free.fr^
 ||krazyletter.com^
+||krcgtv.com^
 ||krew.io^
 ||krii-games.com^
 ||krii.games^
@@ -7019,6 +7070,7 @@
 ||kubus.pl^
 ||kugeln.io^
 ||kulbotjeux.com^
+||kundo.se^
 ||kungfupandagame.com^
 ||kurnik.org^
 ||kurnik.pl^
@@ -7046,6 +7098,7 @@
 ||lafermeadede.com^
 ||lageekerie.com^
 ||lagged.com^
+||lagged.pl^
 ||lagoonb.com^
 ||lagoonb.net^
 ||lagrandt.com^
@@ -7091,6 +7144,7 @@
 ||ldagames.com^
 ||lddv.com^
 ||lddv.sites.netavous.net^
+||ldplayer.net^
 ||le-coyote.com^
 ||le-jeu-gratuit.net^
 ||le-nain.forumactif.com^
@@ -7186,6 +7240,7 @@
 ||lesmeilleursjeux.net^
 ||lesminimondes.com^
 ||lesroyaumes.com^
+||lessmilk.com^
 ||lesudokugratuit.com^
 ||letempledujeu.fr^
 ||lethalpenguin.net^
@@ -7239,6 +7294,7 @@
 ||liveinforest.org^
 ||liveonbankiz.org^
 ||liveschach.de^
+||lizardpoint.com^
 ||lldc.fr^
 ||loaded.vg^
 ||loadfreegames.com^
@@ -7432,6 +7488,7 @@
 ||manualdohomemmoderno.com.br^
 ||manuscritdesames.com^
 ||manyflashgame.com^
+||mapcrunch.com^
 ||maps4heroes.com^
 ||maquillagejeux.com^
 ||marapets.com^
@@ -7583,8 +7640,8 @@
 ||metagames-eu.com^
 ||metagames.com^
 ||metajuegos.com^
-||metaldamage.com.pt^
 ||metaldamage.com^
+||metaldamage.com.pt^
 ||metaldamage.de^
 ||metaldamage.es^
 ||metaldamage.fr^
@@ -7670,8 +7727,8 @@
 ||miniclip-club.com^
 ||miniclip-games.net^
 ||miniclip-games.us^
-||miniclip.com.ro^
 ||miniclip.com^
+||miniclip.com.ro^
 ||miniclip.lx.ro^
 ||miniclip.ro^
 ||miniclip.se^
@@ -7843,6 +7900,7 @@
 ||moreballoons.net^
 ||moreflashgames.com^
 ||moregamers.com^
+||moreorless.io^
 ||moreplayerz.com^
 ||moreroms.com^
 ||moria.cz^
@@ -8005,6 +8063,8 @@
 ||namuhon.com^
 ||nanvaent.org^
 ||naquatic.com^
+||narrow-one.com^
+||narrow.one^
 ||naruto-arena.com^
 ||naruto-extreme.com^
 ||naruto-le-jeu.fr^
@@ -8132,8 +8192,8 @@
 ||nicajuegos.com^
 ||nicajuegos.net^
 ||nick.co.uk^
-||nick.com.au^
 ||nick.com^
+||nick.com.au^
 ||nicoland.be^
 ||nicoland.com^
 ||nicoland.fr^
@@ -8245,6 +8305,7 @@
 ||oasisbefruit.com^
 ||oasisforfun.com^
 ||oberon-media.com^
+||obfog.com^
 ||objectiftest.com^
 ||occamygames.com^
 ||ocean-life.org^
@@ -8331,6 +8392,7 @@
 ||online-hry.pc-hry.sk^
 ||online-jogos-gratis.com^
 ||online-skatclub.de^
+||online-solitaire.com^
 ||online-spiele.org^
 ||online-zombie-games.com^
 ||online.seterra.com^
@@ -8545,6 +8607,7 @@
 ||ornigo.com^
 ||ortsoftware.com^
 ||orzzz.com^
+||oskarstalberg.com^
 ||otakumaker.com^
 ||otherworldmud.com^
 ||otsland.com^
@@ -8935,6 +8998,7 @@
 ||playgamespro.com^
 ||playgamezen.com^
 ||playgendary.com^
+||playgeography.com^
 ||playgratuit.com^
 ||playground.ctp-design.net^
 ||playhacked.com^
@@ -9049,6 +9113,7 @@
 ||pokemoninfinity.com^
 ||pokemonnegro.com^
 ||pokemonplasma.com^
+||pokemonshowdown.com^
 ||pokemontowerdefense2.info^
 ||pokemonvolcano.com^
 ||pokemonvoyage.com^
@@ -9064,8 +9129,8 @@
 ||pokertexasomaha.com^
 ||pokertodo.com^
 ||pokeyplay.com^
-||poki.com.br^
 ||poki.com^
+||poki.com.br^
 ||poki.de^
 ||poki.it^
 ||poki.pl^
@@ -9156,6 +9221,7 @@
 ||probandopista.fullblog.com.ar^
 ||prodigygame.com^
 ||prodvahry.cz^
+||project357.org^
 ||projectlore.com^
 ||projecttankgame.com^
 ||projetgenesis.com^
@@ -9252,8 +9318,8 @@
 ||puzzlenest.com^
 ||puzzlepirates.com^
 ||puzzles-fr.com^
-||puzzles.com.br^
 ||puzzles.com^
+||puzzles.com.br^
 ||puzzletfactory.com^
 ||puzzletime.free.fr^
 ||pw-games.com^
@@ -9438,6 +9504,7 @@
 ||residentevilcenter.net^
 ||residentevilsh.com^
 ||reslauncher.vercel.app^
+||resn.co^
 ||resort.org^
 ||retro64.com^
 ||retroarcade.com^
@@ -9474,6 +9541,7 @@
 ||ridejudge.com^
 ||rifgames.com^
 ||riftgame.com^
+||rigorousthemes.com^
 ||rihanna-s-hair-cuts.ezmakeover.com^
 ||rimoplay.com^
 ||rinconjuegos.com^
@@ -9534,8 +9602,8 @@
 ||roquebergue.free.fr^
 ||rorgames.com^
 ||rotogame.appspot.com^
-||roundgames.com.s3.amazonaws.com^
 ||roundgames.com^
+||roundgames.com.s3.amazonaws.com^
 ||roundgames.de^
 ||rovio.com^
 ||roxygames.com^
@@ -9770,6 +9838,7 @@
 ||shadowtale.com^
 ||shakethecow.com^
 ||shapeshape.net^
+||shapez.io^
 ||share-games.com^
 ||sharedflashgames.com^
 ||shareitgames.com^
@@ -9868,6 +9937,8 @@
 ||sitedegames.com^
 ||sitegeek.fr^
 ||sitejeuxdefille.com^
+||sitelike.org^
+||sites.google.com^
 ||sitokado.com^
 ||six.ma^
 ||sixteen-tons.de^
@@ -9996,8 +10067,8 @@
 ||solitaireparadise.com^
 ||solitr.com^
 ||sologiochigratis.com^
-||solojuegos.com.mx^
 ||solojuegos.com^
+||solojuegos.com.mx^
 ||solojuegos.net^
 ||solojuegosxp.com^
 ||solomario.com^
@@ -10121,8 +10192,8 @@
 ||spielen.com^
 ||spielen.de^
 ||spielepsychatrie.de^
-||spieletipps.de.intellitxt.com^
 ||spieletipps.de^
+||spieletipps.de.intellitxt.com^
 ||spielex.net^
 ||spielkarussell.de^
 ||spielnet.de^
@@ -10243,6 +10314,7 @@
 ||static3.spilcdn.com^
 ||station.sony.com^
 ||stats777.com^
+||stattogories.com^
 ||statuspage.io^
 ||stavela.cz^
 ||stba.io^
@@ -10280,8 +10352,8 @@
 ||steamgifts.com^
 ||steamgm.com^
 ||steamhunters.com^
-||steamid.co.uk^
 ||steamid.co^
+||steamid.co.uk^
 ||steamid.io^
 ||steamidfinder.com^
 ||steamidlemaster.com^
@@ -10495,8 +10567,8 @@
 ||tagoria.net^
 ||tagpro.gg^
 ||taigames.com^
-||taikodom.com.br^
 ||taikodom.com^
+||taikodom.com.br^
 ||take2games.com^
 ||takegame.com^
 ||takepoint.io^
@@ -10792,6 +10864,7 @@
 ||titanhq.com^
 ||titanictreasure.com^
 ||titanquestgame.com^
+||titotu.io^
 ||tiwipi.com^
 ||tkmoo-se.sourceforge.net^
 ||tlkgames.com^
@@ -10925,6 +10998,7 @@
 ||towerofdefense.com^
 ||towerwars.de^
 ||towerz.io^
+||townscapergame.com^
 ||toytheater.com^
 ||toytoygames.com^
 ||tracker.gamedock.io^
@@ -10943,10 +11017,10 @@
 ||transience.com.au^
 ||trapz.io^
 ||travian.cl^
+||travian.com^
 ||travian.com.ar^
 ||travian.com.br^
 ||travian.com.mx^
-||travian.com^
 ||travian.de^
 ||travian.fr^
 ||travian.net^
@@ -11044,6 +11118,7 @@
 ||tux-life.com^
 ||tv-reveil.com^
 ||tvspelletjes.nl^
+||tvtropes.org^
 ||twilightgamer.com^
 ||twilightgames.com^
 ||twilightheroes.com^
@@ -11180,6 +11255,7 @@
 ||unbrained.roxorgamers.com^
 ||undeadreport.com^
 ||underdog.be^
+||underhound.eu^
 ||underworldfootball.com^
 ||underzone.org^
 ||unfair-mario.com^
@@ -11273,6 +11349,7 @@
 ||vegasexperience.com^
 ||vegasred.com^
 ||vegasslotsonline.com^
+||vehikill.io^
 ||vendetta-online.com^
 ||vendetta.pl^
 ||venetian.com^
@@ -11284,6 +11361,7 @@
 ||veojuegos.com^
 ||vepgamesdonloads.com^
 ||veravegas.com^
+||vercel.app^
 ||vergerfleuri.ca.cx^
 ||verkom.be^
 ||vertex-games.com^
@@ -11322,8 +11400,8 @@
 ||videogiochigratis.net^
 ||videojuegoblog.com^
 ||videojuegos.adnstream.tv^
-||videojuegos.com.ve^
 ||videojuegos.com^
+||videojuegos.com.ve^
 ||videojuegos.hey.es^
 ||videojuegos.idoneos.com^
 ||videojuegos.mundodescargas.com^
@@ -11366,6 +11444,7 @@
 ||virtualrallygame.com^
 ||virtualregatta.com^
 ||virtualtoy.nm.ru^
+||virtualvacation.us^
 ||virtualwebgames.com^
 ||virtujuegos.com^
 ||virtuoflash.com^
@@ -11412,6 +11491,7 @@
 ||vpnme.me^
 ||vracinformatique.com^
 ||vrbe.org^
+||vseigru.net^
 ||vuigame.net^
 ||vulcan-stavka-casino.info^
 ||vulcan-stavka-casino.org^
@@ -11434,6 +11514,7 @@
 ||war-land.com^
 ||warball.io^
 ||warbot.io^
+||warbrokers.io^
 ||warcall.io^
 ||warcraft.czechgamer.com^
 ||warcraftmovies.com^
@@ -11501,6 +11582,7 @@
 ||web.sigames.com^
 ||web.trumpskins.wtf^
 ||web2mail.com^
+||webcatalog.io^
 ||webclient.asspixel.net^
 ||webcrosswords.com^
 ||webgame.cz^
@@ -11528,6 +11610,7 @@
 ||webtitan.com^
 ||webtorneios.com.br^
 ||webtrek.free.fr^
+||webzook.net^
 ||weebly.com^
 ||weeblyunblockedgames.com^
 ||weed-land.net^
@@ -11539,6 +11622,7 @@
 ||wellbored.com^
 ||wellgames.com^
 ||weltenwanderung.com^
+||wendgames.com^
 ||wepc.com^
 ||weplayflash.fr^
 ||weplayhere.com^
@@ -11554,6 +11638,7 @@
 ||whdownload.com^
 ||wheels-games.com^
 ||wheelsrepair.com^
+||whereami.io^
 ||whosegame.com^
 ||wiaderko.com^
 ||wickedgoodgames.com^
@@ -11742,6 +11827,7 @@
 ||xgenstudios.com^
 ||xidus.net^
 ||xixigames.com^
+||xkcd.com^
 ||xljeux.com^
 ||xlodeho.free.fr^
 ||xmarc.co.uk^
@@ -11759,6 +11845,7 @@
 ||xpgamesaves.com^
 ||xplored.com^
 ||xs.gameshark.com^
+||xtahua.com^
 ||xtaz2k.free.fr^
 ||xtcabandonware.com^
 ||xtonlinegame.com^
@@ -11970,6 +12057,7 @@
 ||zonora.com^
 ||zoo-manager.com^
 ||zoo.gr^
+||zoomtasticgame.com^
 ||zoopgames.com^
 ||zoowow.org^
 ||zoptirik.com^
