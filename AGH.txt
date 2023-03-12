@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every 2-4 days
-! Last updated: 06.03.2023
+! Last updated: 12.03.2023
 ! Domains: 12083
 !
 ||007arcadegames.com^
@@ -2546,6 +2546,7 @@
 ||enemyterritory.com^
 ||energames.com^
 ||enerversonpatron.free.fr^
+||engineous.repl.co^
 ||englishharbour.com^
 ||englishpubpool.co.uk^
 ||enh.gamesurf.it^
@@ -8131,7 +8132,6 @@
 ||netcartas.com.br^
 ||netdragons.com^
 ||netflix-movies.cc^
-||netflix.com^
 ||netgame.com^
 ||nethry.cz^
 ||netigame.fr^
@@ -9465,7 +9465,6 @@
 ||redballgame.net^
 ||redcap.org^
 ||redclawgames.com^
-||reddit.com^
 ||redhotpawn.com^
 ||redlynxtrials.com^
 ||rednblu.com^
@@ -12001,6 +12000,7 @@
 ||zenarcadegames.com^
 ||zenjuegos.com^
 ||zentic.cc^
+||zentic.org^
 ||zepark.com^
 ||zepirates.com^
 ||zeplayers.com^

@@ -2540,6 +2540,7 @@ enemy.com
 enemyterritory.com
 energames.com
 enerversonpatron.free.fr
+engineous.repl.co
 englishharbour.com
 englishpubpool.co.uk
 enh.gamesurf.it
@@ -8125,7 +8126,6 @@ netabalone.goto-games.com
 netcartas.com.br
 netdragons.com
 netflix-movies.cc
-netflix.com
 netgame.com
 nethry.cz
 netigame.fr
@@ -9459,7 +9459,6 @@ redarcades.com
 redballgame.net
 redcap.org
 redclawgames.com
-reddit.com
 redhotpawn.com
 redlynxtrials.com
 rednblu.com
@@ -11995,6 +11994,7 @@ zeldasolarus.free.fr
 zenarcadegames.com
 zenjuegos.com
 zentic.cc
+zentic.org
 zepark.com
 zepirates.com
 zeplayers.com
