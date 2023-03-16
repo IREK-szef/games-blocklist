@@ -2,9 +2,9 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every 2-4 days
-! Last updated: 12.03.2023
-! Domains: 12083
-! test 
+! Last updated: 16.03.2023
+! Domains: 12080
+!
 ||007arcadegames.com^
 ||01-casino.com^
 ||01-chase.com^
@@ -10628,9 +10628,6 @@
 ||teamspeak-services.com^
 ||teamspeak.com^
 ||teamxbox.com^
-||techcrunch.com^
-||techradar.com^
-||techunblocked.org^
 ||teddygames.com^
 ||teenbuzz.org^
 ||teenesil.com^
