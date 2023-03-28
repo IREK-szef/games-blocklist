@@ -5,6 +5,9 @@
 ! Last updated: 16.03.2023
 ! Domains: 12080
 !
+!dodane 28.03.2023
+||totalcasino.pl^
+!
 ||007arcadegames.com^
 ||01-casino.com^
 ||01-chase.com^
