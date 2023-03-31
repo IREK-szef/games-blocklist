@@ -2954,6 +2954,7 @@ flashring.com
 flashrolls.com
 flashsmash.com
 flashspiele.de
+flashstorage.games
 flashtogame.com
 flashtowerdefence.com
 flashtrackz.com
@@ -3275,6 +3276,7 @@ frivgames.in
 frivgamesforkids.com
 frivhry.com
 frivhry.sk
+frivold.menu
 frjj.online.fr
 frog2.born2play.org
 frontier.mudservices.com
@@ -4253,6 +4255,8 @@ gamesbob.com
 gamesbunch.com
 gamesbutler.com
 gamesbutler.net
+gamesbx.co
+gamesbx.com
 gamesbyemail.com
 gamesbyscott.com
 gamescafe.cz
@@ -5284,6 +5288,7 @@ human-epic.com
 humanescape.elixant.com
 humanland.parios.org
 humblebundle.com
+humoq.com
 humoq.pl
 humour-jeux-services.net
 hurongames.com
@@ -8242,6 +8247,7 @@ nodeka.com
 nodeunblock.herokuapp.com
 nodiatis.com
 noelus.com
+noflash.games
 nofrag.com
 noisegames.com
 nojeux.com
@@ -10953,6 +10959,7 @@ tortusland.cjb.net
 tosstheturtlehacked.info
 total-jerkface.com
 totalbattle.com
+totalcasino.pl
 totalemul.com
 totaljerkface.com
 totallyfreegames.com

@@ -2,11 +2,8 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every 2-4 days
-! Last updated: 16.03.2023
-! Domains: 12080
-!
-!dodane 28.03.2023
-||totalcasino.pl^
+! Last updated: 31.03.2023
+! Domains: 12090
 !
 ||007arcadegames.com^
 ||01-casino.com^
@@ -2963,6 +2960,7 @@
 ||flashrolls.com^
 ||flashsmash.com^
 ||flashspiele.de^
+||flashstorage.games^
 ||flashtogame.com^
 ||flashtowerdefence.com^
 ||flashtrackz.com^
@@ -3284,6 +3282,7 @@
 ||frivgamesforkids.com^
 ||frivhry.com^
 ||frivhry.sk^
+||frivold.menu^
 ||frjj.online.fr^
 ||frog2.born2play.org^
 ||frontier.mudservices.com^
@@ -4262,6 +4261,8 @@
 ||gamesbunch.com^
 ||gamesbutler.com^
 ||gamesbutler.net^
+||gamesbx.co^
+||gamesbx.com^
 ||gamesbyemail.com^
 ||gamesbyscott.com^
 ||gamescafe.cz^
@@ -5293,6 +5294,7 @@
 ||humanescape.elixant.com^
 ||humanland.parios.org^
 ||humblebundle.com^
+||humoq.com^
 ||humoq.pl^
 ||humour-jeux-services.net^
 ||hurongames.com^
@@ -8251,6 +8253,7 @@
 ||nodeunblock.herokuapp.com^
 ||nodiatis.com^
 ||noelus.com^
+||noflash.games^
 ||nofrag.com^
 ||noisegames.com^
 ||nojeux.com^
@@ -10631,6 +10634,9 @@
 ||teamspeak-services.com^
 ||teamspeak.com^
 ||teamxbox.com^
+||techcrunch.com^
+||techradar.com^
+||techunblocked.org^
 ||teddygames.com^
 ||teenbuzz.org^
 ||teenesil.com^
@@ -10959,6 +10965,7 @@
 ||tosstheturtlehacked.info^
 ||total-jerkface.com^
 ||totalbattle.com^
+||totalcasino.pl^
 ||totalemul.com^
 ||totaljerkface.com^
 ||totallyfreegames.com^
