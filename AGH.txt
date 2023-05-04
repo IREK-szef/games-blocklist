@@ -4819,7 +4819,6 @@
 ||girlsgogames.fr^
 ||girlsjeux.com^
 ||girlybox.com^
-||github.io^
 ||giveuprobot.info^
 ||giydiroyun.com^
 ||gjeux.com^
@@ -7550,7 +7549,6 @@
 ||makaimedia.com^
 ||makemelink.com^
 ||makeover-games.ezmakeover.com^
-||makeuseof.com^
 ||malash.net^
 ||malavida.com^
 ||mame-arcade.fr^
