@@ -2,9 +2,20 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every few weeks
-! Last updated: 02.04.2023
-! Domains: 12249
+! Last updated: 06.09.2023
+! Domains: 12268
 !
+||wordlewebsite.com^
+||rankdle.com^
+||gra-saper.pl^
+||rankdle.io^
+||loldle.net^
+||loldle.org^
+||wordle-unlimited.io^
+||wordlegame.org^
+||wordleplay.com^
+||slowle.pl^
+||sudoku.pl^
 ||007arcadegames.com^
 ||01-casino.com^
 ||01-chase.com^
@@ -11107,6 +11118,7 @@
 ||tosstheturtlehacked.info^
 ||total-jerkface.com^
 ||totalbattle.com^
+||totalcasino.pl^
 ||totalemul.com^
 ||totaljerkface.com^
 ||totallyfreegames.com^
