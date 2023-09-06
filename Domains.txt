@@ -1,4 +1,15 @@
 #You shouldn't use this file due to the modified file format for ease of management.
+wordlewebsite.com
+rankdle.com
+gra-saper.pl
+rankdle.io
+loldle.net
+loldle.org
+wordle-unlimited.io
+wordlegame.org
+wordleplay.com
+slowle.pl
+sudoku.pl
 007arcadegames.com
 01-casino.com
 01-chase.com
