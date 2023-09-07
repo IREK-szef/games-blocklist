@@ -1,6 +1,7 @@
 @@||youtube.com^$important
 @@||cloudflare-dns.com^$important
-@@||dns.google^$important||tellonym.me^$important
+@@||dns.google^$important
+@@||tellonym.me^
 @@||adclick.g.doubleclick.net^
 @@||ajax.googleapis.com^
 @@||fonts.googleapis.com^
