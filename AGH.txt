@@ -5,6 +5,11 @@
 ! Last updated: 02.04.2023
 ! Domains: 12233
 !
+/game.*/
+||*.game^
+||*.games^
+||*.play^
+||*.school^
 ||007arcadegames.com^
 ||01-casino.com^
 ||01-chase.com^
