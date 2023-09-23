@@ -9,7 +9,7 @@
 /class.*/$denyallow=classroom.google.com
 /school.*/
 /math.*/
-/play.*/
+/play.*/$denyallow=play.google.com|play.pl
 ||*.io^$denyallow=onepage.io|adguard-dns.io
 ||*.room^
 ||*.game^
