@@ -10,7 +10,7 @@
 /school.*/
 /math.*/
 !/play.*/$denyallow=play.google.com|play.pl
-||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io
+||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io
 ||*.room^
 ||*.game^
 ||*.games^
