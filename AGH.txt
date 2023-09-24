@@ -3,13 +3,13 @@
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every few weeks
 ! Last updated: Sep 23 2023
-! Domains: 12243
+! Rules: 12242
 !
 /game.*/
 /class.*/$denyallow=classroom.google.com
 /school.*/
 /math.*/
-/play.*/$denyallow=play.google.com|play.pl
+!/play.*/$denyallow=play.google.com|play.pl
 ||*.io^$denyallow=onepage.io|adguard-dns.io
 ||*.room^
 ||*.game^
@@ -8394,7 +8394,6 @@
 ||nutsy.net^
 ||nuttyaboutneopets.com^
 ||nuuvem.com^
-||nvidia.com^
 ||nweworld.com^
 ||nxn.netgate.net^
 ||ny-mafia.com^
