@@ -5,10 +5,12 @@
 ! Last updated: Sep 26 2023
 ! Rules: 12245
 !
+! maybe block unity? /unity.*/
 /game.*/
 /class.*/$denyallow=classroom.google.com
 /school.*/$denyallow=w3schools.com
 /math.*/$denyallow=mathjax.org
+/unblocked.*/
 /gry.*/
 /gra.*/$denyallow=gravatar.com|facebook.com
 /graj.*/
@@ -19,6 +21,11 @@
 ||*.games^
 ||*.play^
 ||*.school^
+||watchdocumentaries.com^
+||symbaloo.com^
+||fancade.com^
+||turbowarp.org^
+||kizi.cm^
 ||007arcadegames.com^
 ||01-casino.com^
 ||01-chase.com^
@@ -9881,7 +9888,6 @@
 ||scrabble.malcolmboyd.net^
 ||scrap.tf^
 ||scrappedrobot.com^
-||scratch.mit.edu^
 ||scrawlfx.com^
 ||sd1027.sivit.org^
 ||se-network.de^
