@@ -10,7 +10,7 @@
 /school.*/
 /math.*/$denyallow=mathjax.org
 !/play.*/$denyallow=play.google.com|play.pl
-||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io
+||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io
 ||*.room^
 ||*.game^
 ||*.games^
