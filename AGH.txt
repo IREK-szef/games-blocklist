@@ -2,15 +2,17 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every few weeks
-! Last updated: Sep 23 2023
-! Rules: 12242
+! Last updated: Sep 26 2023
+! Rules: 12245
 !
-
 /game.*/
 /class.*/$denyallow=classroom.google.com
 /school.*/$denyallow=w3schools.com
 /math.*/$denyallow=mathjax.org
-!/play.*/$denyallow=play.google.com|play.pl
+/gry.*/
+/gra.*/$denyallow=gravatar.com|facebook.com
+/graj.*/
+/gierki.*/
 ||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io
 ||*.room^
 ||*.game^
@@ -4961,7 +4963,6 @@
 ||gratuits-jeux.net^
 ||gratuitsjeux.fr^
 ||gratwee.com^
-||gravatar.com^
 ||graypanther.net^
 ||greatdaygames.com^
 ||greatgatsbygame.com^
