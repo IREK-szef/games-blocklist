@@ -1639,7 +1639,6 @@
 ||clodogame.fr^
 ||clowngames.com^
 ||club-games.com^
-||club.live.com^
 ||clubjuegosonline.com^
 ||cmdragracing.com^
 ||cmmuck.tripod.com^
@@ -3065,7 +3064,6 @@
 ||footix.io^
 ||footkorner.com^
 ||footnet2000.com^
-||footprint.net^
 ||footystar.bravehost.com^
 ||forcrost.free.fr^
 ||forfansbyfans.com^
@@ -7366,7 +7364,6 @@
 ||little-big-snake.io^
 ||littlebigsnake.com^
 ||littleshinyobjects.com^
-||live.com^
 ||live360.fr^
 ||livebackgammon.de^
 ||livecanasta.de^
