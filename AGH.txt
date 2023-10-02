@@ -6,6 +6,7 @@
 ! Rules: 8193
 !
 ! maybe block? /unity.*/ /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /gaming.*/ /survival.*/ /craft.*/ /shooter.*/ /cs.*/ /counter.*/ /strike.*/
+/fortnite.*/
 /guess.*/
 /game.*/
 /class.*/$denyallow=classroom.google.com
@@ -21,6 +22,8 @@
 ||*.games^
 ||*.play^
 ||*.school^
+||*.fun^
+||*.lol^
 ||uwufufu.com^
 ||watchdocumentaries.com^
 ||symbaloo.com^
