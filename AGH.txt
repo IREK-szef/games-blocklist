@@ -20,6 +20,7 @@
 ||*.games^
 ||*.play^
 ||*.school^
+||uwufufu.com^
 ||watchdocumentaries.com^
 ||symbaloo.com^
 ||fancade.com^
