@@ -3,9 +3,17 @@
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every few weeks
 ! Last updated: Sep 27 2023
-! Rules: 8193
+! Rules: 8210
 !
-! maybe block? /unity.*/ /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /gaming.*/ /survival.*/ /craft.*/ /shooter.*/ /cs.*/ /counter.*/ /strike.*/
+! maybe block? /unity.*/ /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /shooter.*/ /cs.*/ /counter.*/ /strike.*/
+/gaming.*/
+/minecraft.*/
+/steam.*/
+/ubg.*/
+/craft.*/
+/survival.*/
+/friday.*/
+/funkin.*/
 /fortnite.*/
 /guess.*/
 /game.*/
@@ -24,6 +32,9 @@
 ||*.school^
 ||*.fun^
 ||*.lol^
+||*.gg^
+||clickspeedtest.com^
+||cpstest.org^
 ||uwufufu.com^
 ||watchdocumentaries.com^
 ||symbaloo.com^
