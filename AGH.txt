@@ -10,7 +10,7 @@
 /minecraft.*/
 /steam.*/
 /ubg.*/
-/craft.*/
+/craft.*/$denyallow=snapcraft.io|snapcraftcontent.com
 /survival.*/
 /friday.*/
 /funkin.*/
