@@ -1,20 +1,22 @@
-! Irek-szef's and spec997's games block list for adblock, adguard etc. Report new domains or false positives in issues on github https://github.com/IREK-szef/games-blocklist/issues
+! Title: games block list for adblock, adguard home.
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Based on: games list from https://dsi.ut-capitole.fr/blacklists/index_en.php
 ! Updates: every few weeks
-! Last updated: Sep 27 2023
-! Rules: 8210
+! Last updated: Oct 16 2023
+! Rules: 8212
 !
-! maybe block? /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /cs.*/ /counter.*/ /strike.*/ /ball.*/ /bubble.*/ /puzzle.*/ /pirate.*/ /fight.*/ /lol.*/
+! maybe block? /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /cs.*/ /counter.*/ /strike.*/ /ball.*/ /bubble.*/ /pirate.*/ /fight.*/ /lol.*/
+/puzzle.*/
 /shoot.*/
 /gaming.*/
+/mine.*/
 /minecraft.*/
 /steam.*/
 /ubg.*/
 /craft.*/$denyallow=snapcraft.io|snapcraftcontent.com
 /survival.*/
 /friday.*/
-/funkin.*/
+/fun.*/
 /fortnite.*/
 /guess.*/
 /game.*/
