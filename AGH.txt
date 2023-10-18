@@ -27,7 +27,7 @@
 /gry.*/
 /gra.*/$denyallow=gravatar.com|facebook.com
 /gier.*/
-||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io|esphome.io|balena.io|snapcraft.io|10web.io|antmedia.io|guard.io|nextdns.io|gitlab.io|cloudpanel.io
+||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io|esphome.io|balena.io|snapcraft.io|10web.io|antmedia.io|guard.io|nextdns.io|gitlab.io|cloudpanel.io|appmaster.io
 ||*.room^
 ||*.game^
 ||*.games^
