@@ -10,4 +10,5 @@ chess.com##.board
 lichess.org##.cg-wrap
 
 ! google mini-games
-www.google.com##.TUOsUe.zsYMMe.AU64fe > span
+www.google.com##.g-blk.wF4fFd.g > div
+www.google.com##g-lightbox
