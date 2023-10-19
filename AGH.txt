@@ -2556,7 +2556,6 @@
 ||geeklemag.com^
 ||geeringup.apsc.ubc.ca^
 ||geewa.com^
-||geforcenow.com^
 ||geheee.freespaces.com^
 ||gemaga.sbcr.jp^
 ||gembly.fr^
