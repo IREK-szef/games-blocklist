@@ -6,6 +6,7 @@
 ! Last updated: 19 Oct 2023 18:53 UTC 
 ! Number of entries: 8181
 !
+||memuplay.com^
 ||clickspeedtest.com^
 ||cpstest.org^
 ||uwufufu.com^
