@@ -1,9 +1,9 @@
 ! Title: IREK-szef's spec997's regex addon for games blocklist
-! Description: Addon for main list for more agresive filtering (may contain more false positives).
+! Description: Addon for main list for more aggressive filtering (may contain more false positives).
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Expires: 29 days
 ! Syntax: AdBlock
-! Last updated: 19 Oct 2023 18:45 UTC
+! Last updated: 19 Oct 2023 18:53 UTC
 ! Number of entries: 26
 !
 ! maybe block? /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /cs.*/ /lol.*/
