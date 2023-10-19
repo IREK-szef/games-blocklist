@@ -1,0 +1,17 @@
+! Title: IREK-szef's spec997's TLDs addon for games blocklist
+! Description: Addon for main list for more agresive filtering (may contain more false positives).
+! Homepage: https://github.com/IREK-szef/games-blocklist
+! Expires: 29 days
+! Syntax: AdBlock
+! Last updated: 19 Oct 2023 18:45 UTC
+! Number of entries: 9
+!
+||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io|esphome.io|balena.io|snapcraft.io|10web.io|antmedia.io|guard.io|nextdns.io|gitlab.io|cloudpanel.io|appmaster.io|codepen.io|sssd.io|vsassets.io
+||*.room^
+||*.game^
+||*.games^
+||*.play^
+||*.school^
+||*.fun^
+||*.lol^
+||*.gg^

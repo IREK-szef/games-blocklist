@@ -1,5 +1,0 @@
-chess.com##.board
-lichess.org##.cg-wrap
-
-! google mini-games
-www.google.com##.TUOsUe.zsYMMe.AU64fe > span

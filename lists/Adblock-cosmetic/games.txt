@@ -1,0 +1,13 @@
+! Title: IREK-szef's spec997's main adblock addon games blocklist
+! Description: Cleans internet from online games mainly ocused on games that runs in web browesrs.
+! Homepage: https://github.com/IREK-szef/games-blocklist
+! Expires: 29 days
+! Syntax: AdBlock
+! Last updated: 19 Oct 2023 18:45 UTC 
+! Number of entries: 3
+!
+chess.com##.board
+lichess.org##.cg-wrap
+
+! google mini-games
+www.google.com##.TUOsUe.zsYMMe.AU64fe > span

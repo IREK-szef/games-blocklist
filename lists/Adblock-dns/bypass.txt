@@ -1,0 +1,37 @@
+! Title: IREK-szef's spec997's dns bypassing blocklist by vm or virtual browser streaming.
+! Description: Cleans internet from online games mainly ocused on games that runs in web browesrs.
+! Homepage: https://github.com/IREK-szef/games-blocklist
+! Expires: 29 days
+! Syntax: AdBlock
+! Last updated: 19 Oct 2023 18:45 UTC
+! Number of entries: 29
+!
+||a8silo.com^
+||aerokube.com^
+||authentic8.com^
+||browser.networkchuck.com^
+||browsercloud.io^
+||browserling.com^
+||browserstack.com^
+||comparium.app^
+||fra.me^
+||ghostinspector.com^
+||gmx.com^
+||ieonchrome.com^
+||kasmweb.com^
+||lambdatest.com^
+||ldcloud.net^
+||mabl.com^
+||mightyapp.com^
+||neverinstall.com^
+||pcloudy.com^
+||perfecto.io^
+||puffin.com^
+||remotehq.com^
+||renderro.com^
+||saucelabs.com^
+||shells.com^
+||smartbear.com^
+||testgrid.io^
+||testingbot.com^
+||testsigma.com^
