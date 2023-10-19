@@ -7,6 +7,14 @@
 ! Number of entries: 26
 !
 ! maybe block? /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /cs.*/ /lol.*/
+/spider.*/
+/solitaire.*/
+/pasjan.*/
+/freecell.*/
+/saper.*/
+/card.*/
+/karcian.*/
+/plansz.*/
 /fight.*/
 /pirate.*/
 /bubble.*/
