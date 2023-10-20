@@ -3,9 +3,10 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Expires: 29 days
 ! Syntax: AdBlock
-! Last updated: 19 Oct 2023 18:53 UTC 
-! Number of entries: 8181
+! Last updated: 20 Oct 2023 18:37 UTC 
+! Number of entries: 8182
 !
+||solitair.ee^
 ||memuplay.com^
 ||clickspeedtest.com^
 ||cpstest.org^

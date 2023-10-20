@@ -3,13 +3,15 @@
 ! Homepage: https://github.com/IREK-szef/games-blocklist
 ! Expires: 29 days
 ! Syntax: AdBlock
-! Last updated: 19 Oct 2023 19:23 UTC 
+! Last updated: 20 Oct 2023 18:38 UTC 
 ! Number of entries: 3
 !
 chess.com##.board
 lichess.org##.cg-wrap
 
 ! google mini-games
-www.google.com##.g-blk.wF4fFd.g > div
-www.google.com##g-lightbox
-||www.google.com/logos/2010/pacman10-i.html^$all
+google.*###rso > .ULSxyf
+google.*##g-lightbox
+||google.*/fbx^$all
+||google.*/logos/2010/pacman10-i.html^$all
+||google.*/logos/fnbx/solitaire/standalone.html^$all
