@@ -9,6 +9,10 @@
 chess.com##.board
 lichess.org##.cg-wrap
 
+! block for minecraft in browser and others
+*###game_frame
+*##canvas
+
 ! google mini-games
 google.*##.g-blk.wF4fFd.g
 google.*###rso > .ULSxyf:style(margin-bottom: 0 !important)
