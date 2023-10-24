@@ -1580,7 +1580,6 @@
 ||dirt.dennis.co.uk^
 ||dis.gd^
 ||diseasedproductions.net^
-||disney.com^
 ||disneybahn.com^
 ||disneyhd.tk^
 ||disneylatino.com^
