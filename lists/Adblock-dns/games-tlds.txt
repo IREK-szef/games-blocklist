@@ -6,7 +6,7 @@
 ! Last updated: 21 Oct 2023 19:06 UTC
 ! Number of entries: 9
 !
-||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io|esphome.io|balena.io|snapcraft.io|10web.io|antmedia.io|guard.io|nextdns.io|gitlab.io|cloudpanel.io|appmaster.io|codepen.io|sssd.io|vsassets.io|accessibilityinsights.io|shodan.io|phishunt.io|disney.io|draw.io|home-assistant.io|dbeaver.io|section.io
+||*.io^$denyallow=onepage.io|adguard-dns.io|github.io|royalcanin-weshare-online.io|kaluzny.io|commento.io|k8s.io|k3s.io|onetrust.io|adobe.io|branch.io|doorbell.io|sentry.io|connectad.io|docker.io|dckr.io|esphome.io|balena.io|snapcraft.io|10web.io|antmedia.io|guard.io|nextdns.io|gitlab.io|cloudpanel.io|appmaster.io|codepen.io|sssd.io|vsassets.io|accessibilityinsights.io|shodan.io|phishunt.io|disney.io|draw.io|home-assistant.io|dbeaver.io|section.io|min.io
 ||*.room^
 ||*.game^
 ||*.games^
