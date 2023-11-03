@@ -38,6 +38,7 @@
 /game.*/
 /class.*/$denyallow=classroom.google.com
 /school.*/$denyallow=w3schools.com
+/poke.*/
 /math.*/$denyallow=mathjax.org
 /unblocked.*/
 /gry.*/
