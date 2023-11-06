@@ -7,6 +7,7 @@
 ! Number of entries: 26
 !
 ! maybe block? /3d.*/ /flash.*/ /2d.*/ /arcade.*/ /cs.*/ /lol.*/
+/potato.*/
 /2048.*/
 /snake.*/
 /spider.*/
